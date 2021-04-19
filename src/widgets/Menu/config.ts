@@ -34,15 +34,15 @@ export const links = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/mozartfinance",
+        href: "https://github.com/clockworkyields",
       },
       {
         label: "Docs",
-        href: "https://mozartfinance.gitbook.io/mozart-finance/",
+        href: "https://app.gitbook.com/@clockworkyields/s/clockwork/",
       },
       {
-        label: "Blog",
-        href: "https://mozart-finance.medium.com/",
+        label: "Medium",
+        href: "https://clockwork-yields.medium.com/",
       },
     ],
   },
@@ -53,22 +53,22 @@ export const socials = [
     label: "Telegram",
     icon: "TelegramIcon",
     items: [
-      {
-        label: "Annoucements",
-        href: "https://t.me/MozartFinanceAnn",
-      },
+      // {
+      //   label: "Annoucements",
+      //   href: "https://t.me/MozartFinanceAnn",
+      // },
       {
         label: "English",
-        href: "https://t.me/MozartFinance",
+        href: "https://t.me/clockworkyields",
       },
-      {
-        label: "Espanol",
-        href: "https://t.me/MozartFinanceEs",
-      },
-      {
-        label: "Japan",
-        href: "https://t.me/MozartFinanceJPN",
-      },
+      // {
+      //   label: "Espanol",
+      //   href: "https://t.me/MozartFinanceEs",
+      // },
+      // {
+      //   label: "Japan",
+      //   href: "https://t.me/MozartFinanceJPN",
+      // },
     ],
   },
   {
