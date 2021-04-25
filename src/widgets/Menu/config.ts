@@ -10,11 +10,11 @@ export const links = [
     items: [
       {
         label: "Exchange",
-        href: "https://exchange.mozartfinance.io",
+        href: "https://exchange.clockworkfinance.io",
       },
       {
         label: "Liquidity",
-        href: "https://exchange.mozartfinance.io/#/pool",
+        href: "https://exchange.clockworkfinance.io/#/pool",
       },
     ],
   },
@@ -55,7 +55,7 @@ export const socials = [
     items: [
       // {
       //   label: "Annoucements",
-      //   href: "https://t.me/MozartFinanceAnn",
+      //   href: "https://t.me/clockworkFinanceAnn",
       // },
       {
         label: "English",
@@ -63,11 +63,11 @@ export const socials = [
       },
       // {
       //   label: "Espanol",
-      //   href: "https://t.me/MozartFinanceEs",
+      //   href: "https://t.me/clockworkFinanceEs",
       // },
       // {
       //   label: "Japan",
-      //   href: "https://t.me/MozartFinanceJPN",
+      //   href: "https://t.me/clockworkFinanceJPN",
       // },
     ],
   },
